@@ -6,6 +6,7 @@ Hands-on exercises from Learning Web Design 5th edition by Jennifer Robbins
 - [Practice codepen collection](https://codepen.io/collection/neWLLy/)
 
 ## Exercies
+
 ### HTML FOR STRUCTURE
 - [Chapter4](ch04) - CREATING A SIMPLE PAGE
 - [Chapter5](ch05) - MARKING UP TEXT
