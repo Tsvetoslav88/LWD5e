@@ -20,3 +20,4 @@ Hands-on exercises from Learning Web Design 5th edition by Jennifer Robbins
 - [Chapter 11](ch11) - INTRODUCING CASCADING STYLE SHEETS
 - [Chapter 12](ch12) - FORMATTING TEXT
 - [Chapter 13](ch13) - COLORS AND BACKGROUNDS
+- [Chapter 14](ch14) - THINKING INSIDE THE BOX
