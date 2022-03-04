@@ -21,3 +21,4 @@ Hands-on exercises from Learning Web Design 5th edition by Jennifer Robbins
 - [Chapter 12](ch12) - FORMATTING TEXT
 - [Chapter 13](ch13) - COLORS AND BACKGROUNDS
 - [Chapter 14](ch14) - THINKING INSIDE THE BOX
+- [Chapter 15](ch15) - FLOATING AND POSITIONING
