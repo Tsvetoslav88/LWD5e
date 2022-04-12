@@ -22,3 +22,4 @@ Hands-on exercises from Learning Web Design 5th edition by Jennifer Robbins
 - [Chapter 13](ch13) - COLORS AND BACKGROUNDS
 - [Chapter 14](ch14) - THINKING INSIDE THE BOX
 - [Chapter 15](ch15) - FLOATING AND POSITIONING
+- [Chapter 16](ch16) - CSS LAYOUT WITH FLEXBOX AND GRID
