@@ -23,3 +23,4 @@ Hands-on exercises from Learning Web Design 5th edition by Jennifer Robbins
 - [Chapter 14](ch14) - THINKING INSIDE THE BOX
 - [Chapter 15](ch15) - FLOATING AND POSITIONING
 - [Chapter 16](ch16) - CSS LAYOUT WITH FLEXBOX AND GRID
+- [Chapter 17](ch17) - RESPONSIVE WEB DESIGN
