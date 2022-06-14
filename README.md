@@ -24,3 +24,11 @@ Hands-on exercises from Learning Web Design 5th edition by Jennifer Robbins
 - [Chapter 15](ch15) - FLOATING AND POSITIONING
 - [Chapter 16](ch16) - CSS LAYOUT WITH FLEXBOX AND GRID
 - [Chapter 17](ch17) - RESPONSIVE WEB DESIGN
+- [Chapter 18](ch18) - TRANSITIONS, TRANSFORMS, AND ANIMATION
+- [Chapter 19](ch19) - MORE CSS TECHNIQUES
+
+#### JAVASCRIPT FOR BEHAVIOR
+- [Chapter 21](ch21) - INTRODUCTION TO JAVASCRIPT
+
+#### WEB IMAGES
+- [Chapter 24](ch24) - IMAGE ASSET PRODUCTION
